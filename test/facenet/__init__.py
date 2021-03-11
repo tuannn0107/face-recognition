@@ -1,0 +1,1 @@
+print('Frank_Hsieh' in 'C:\\Users\\TuanNN\\Downloads\\lfw\\aligned\\Frank_Hsieh')
