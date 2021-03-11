@@ -7,3 +7,5 @@ video face recognition.
 - dlib
 - scikit-learn
 - scikit-image
+
+migrate from https://gitlab.com/tuannn0107/face-recognition
